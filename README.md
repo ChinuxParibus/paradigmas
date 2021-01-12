@@ -17,6 +17,7 @@ Javascript por diseño, es multiparadigma. En este proyecto se ilustran dos que 
 En este proyecto se utilizan dos conceptos importantes dentro de la arquitectura de aplicaciones con Javascript, el concepto de `this` y el concepto de `prototype`.
 
 🥑 **this**: Es una palabra reservada de Javascript que siempre devuelve un objeto. Este objeto es conocido como el entorno de ejecución, que cambiará conforme una expresión se escriba usando la palabra reservada. Por defecto, `this` devuelve el objeto global `Window`.
+
 🥑 **prototype**: Es un objeto que es común a todos los objetos en Javascript. Este objeto puede ser modificado a libertad, pero una vez modificado, todas las instancias que se deriven de este objeto, contendrán todas las modificaciones. Dicho objeto sin modificación, contiene todos los atributos del tipo de dato `Object`
 
 Lo leíste de un aguacate 🥑
